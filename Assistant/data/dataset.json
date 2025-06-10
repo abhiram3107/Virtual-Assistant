@@ -1,0 +1,198 @@
+[
+    {
+      "user_query": "Hello",
+      "response": "Hi there! How can I assist you today?",
+      "type": "general"
+    },
+    {
+      "user_query": "how are you",
+      "response": "Hello! I'm just a program, but I'm here and ready to help! How about you?",
+      "type": "general"
+    },
+    {
+      "user_query": "Goodbye",
+      "response": "Goodbye! Feel free to reach out anytime!",
+      "type": "general"
+    },
+    {
+      "user_query": "Can you help me?",
+      "response": "Of course! What do you need help with?",
+      "type": "general"
+    },
+    {
+      "user_query": "I need assistance",
+      "response": "I’m here for you! What do you need assistance with?",
+      "type": "general"
+    },
+    {
+      "user_query": "Good morning",
+      "response": "Good morning! How can I make your day easier?",
+      "type": "general"
+    },
+    {
+      "user_query": "Good evening",
+      "response": "Good evening! How can I assist you tonight?",
+      "type": "general"
+    },
+    {
+      "user_query": "What can you do?",
+      "response": "I can help you with a lot of things like answering questions, managing tasks, and even setting reminders. How can I help you today?",
+      "type": "general"
+    },
+    {
+      "user_query": "What is your name?",
+      "response": "I’m your virtual assistant! You can call me VA, and I'm here to make things easier for you.",
+      "type": "general"
+    },
+    {
+      "user_query": "I have a question",
+      "response": "I’m all ears! What’s your question?",
+      "type": "general"
+    },
+    {
+      "user_query": "Where are you from?",
+      "response": "I don’t have a physical location, but I’m here to assist you no matter where you are!",
+      "type": "general"
+    },
+    {
+      "user_query": "Please guide me",
+      "response": "Of course! What do you need guidance with? I’m here to help.",
+      "type": "general"
+    },
+    {
+      "user_query": "Can you explain something?",
+      "response": "Absolutely! What would you like me to explain?",
+      "type": "general"
+    },
+    {
+      "user_query": "Where do I logout?",
+      "navigation_path": "Profile icon > Logout",
+      "type": "navigation"
+    },
+    {
+      "user_query": "What if I forget my password?",
+      "navigation_path": "Profile icon > Reset Password",
+      "type": "navigation"
+    },
+    {
+      "user_query": "How can I reset my password?",
+      "navigation_path": "Profile icon > Reset Password",
+      "type": "navigation"
+    },
+    {  
+      "user_query": "Where is my student dashboard?",
+      "navigation_path": "Drawer > Dashboard",
+      "type": "navigation"
+    },
+    {
+      "user_query": "Where can I find my subjects?",
+      "navigation_path": "Drawer > My Subjects",
+      "type": "navigation"
+    },
+    {
+      "user_query": "How can I see my subject details?",
+      "navigation_path": "Drawer > My Subjects",
+      "type": "navigation"
+    },
+    {
+      "user_query": "How can I view a chapter?",
+      "navigation_path": "Drawer > My Subjects > select a subject by clicking on continue",
+      "type": "navigation"
+    },
+    {
+      "user_query": "Where can I discuss topics?",
+      "navigation_path": "Drawer > Discussion",
+      "type": "navigation"
+    },
+    {
+      "user_query": "Where can I view my profile?",
+      "navigation_path": "Profile Icon > Profile",
+      "type": "navigation"
+    },
+    {
+      "user_query": "How do I raise a ticket?",
+      "navigation_path": "Ticket icon > Raise Ticket",
+      "type": "navigation"
+    },
+    {
+      "user_query": "Where can I create a new ticket?",
+      "navigation_path": "Ticket icon > Raise Ticket",
+      "type": "navigation"
+    },
+    {
+      "user_query": "Where can I check my assessments?",
+      "navigation_path": "Drawer > Assessments > Assigned Exam",
+      "type": "navigation"
+    },
+    {
+      "user_query": "Where can I set up my exam?",
+      "navigation_path": "Drawer > Assessments > Custom Exam",
+      "type": "navigation"
+    },
+    {
+      "user_query": "Where can I view my exam results?",
+      "navigation_path": "Drawer > Assessments > Exam History",
+      "type": "navigation"
+    },
+    {
+      "user_query": "Where can I see exam details?",
+      "navigation_path": "Drawer > Assessments > Assigned Exam",
+      "type": "navigation"
+    },
+    {
+      "user_query": "Where can I find assigned exam results and reports?",
+      "navigation_path": "Drawer > Assessments > Assigned Exam > Exam Result",
+      "type": "navigation"
+    },
+    {
+      "user_query": "Where are my exam bookmarks?",
+      "navigation_path": "Drawer > Assessments > Bookmarks",
+      "type": "navigation"
+    },
+    {
+      "user_query": "Where can I see my exam history?",
+      "navigation_path": "Drawer > Assessments > Exam History",
+      "type": "navigation"
+    },
+    {
+      "user_query": "Where can I view my assignments list?",
+      "navigation_path": "Drawer > Assignments",
+      "type": "navigation"
+    },
+    {
+      "user_query": "Where can I upload my assignment?",
+      "navigation_path": "Drawer > Assignments > Submit",
+      "type": "navigation"
+    },
+    {
+      "user_query": "Where is the student library?",
+      "navigation_path": "Drawer > Library",
+      "type": "navigation"
+    },
+    {
+      "user_query": "Where can I find e-books in the library?",
+      "navigation_path": "Drawer > Library > E-books",
+      "type": "navigation"
+    },
+    {
+      "user_query": "Where can I find audio podcasts?",
+      "navigation_path": "Drawer > Library > Audio Podcast",
+      "type": "navigation"
+    },
+    {
+      "user_query": "Where can I find video podcasts?",
+      "navigation_path": "Drawer > Library > Video Podcast",
+      "type": "navigation"
+    },
+    {
+      "user_query": "Where can I read news content?",
+      "navigation_path": "Drawer > Library > News Now",
+      "type": "navigation"
+    },
+    {
+      "user_query": "Where can I view a news article?",
+      "navigation_path": "Drawer > Library > News Now",
+      "type": "navigation"
+    }
+  ]
+  
