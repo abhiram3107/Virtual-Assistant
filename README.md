@@ -80,6 +80,10 @@ Voice functionality has been integrated with the potential to enable in producti
 
 * `Attendance` – `attendance.models.attendance`
 
+### Model Workflow
+
+![Database Models](assets/db_models.jpg)
+
 ## Workflow Summary
 
 1. **User Input** (via text or voice)
